@@ -1,7 +1,10 @@
 # Connect to www.hitta.se
-This project connects to "open" api at www.hita.se.
+This project connects to "open" api at www.hitta.se. 
 
-You need to create an account at www.hitta.se to get required callerId and apiKey.
+* Search companies and/or persons.
+* Display deatils for search result (company/person).
+
+You need to create an account at www.hitta.se to get required callerId and apiKey to make this project working.
 
 ## Reference pages
 * http://hitta.github.io/public/http-api
