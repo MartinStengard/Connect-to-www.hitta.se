@@ -1,6 +1,6 @@
 # Connect to www.hitta.se
 This project connects to "open" api at www.hitta.se. 
-
+* Go to www.hitta.se.
 * Search companies and/or persons.
 * Display details for search result (company/person).
 
